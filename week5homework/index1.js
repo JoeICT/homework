@@ -240,5 +240,7 @@ const data = [
      let w = location.website;
      place.push(m, w)
  });
- console.log (place);
+ console.log ([place]);
+
+
  
